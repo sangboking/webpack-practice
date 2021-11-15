@@ -1,0 +1,11 @@
+$color--blacok: #000;
+$color--white : #fff;
+
+body{
+  background-color: $color--blacok;
+  h1{
+    color:$color--white;
+    font-size: 40px;
+    display: flex;
+  }
+}
